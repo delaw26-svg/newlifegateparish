@@ -1,0 +1,9 @@
+{
+  "name": "RCCG New Life Gate Parish Management",
+  "short_name": "RCCG Parish",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#8c1728",
+  "description": "Church activities, finance, membership and reporting"
+}
